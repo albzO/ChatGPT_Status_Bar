@@ -61,7 +61,7 @@ The usage widget should appear in the profile row at the bottom of the sidebar.
 
 1. Install Tampermonkey.
 2. Create a new userscript.
-3. Replace the default template with the complete contents of [GPTusage.js](GPTusage.js).
+3. Replace the default template with the complete contents of [chatgpt-usage-bar.user.js](chatgpt-usage-bar.user.js).
 4. Save the script.
 5. Reload `https://chatgpt.com/`.
 
@@ -157,7 +157,7 @@ Repository files:
 
 | File | Purpose |
 | --- | --- |
-| [GPTusage.js](GPTusage.js) | Userscript source |
+| [chatgpt-usage-bar.user.js](chatgpt-usage-bar.user.js) | Userscript source |
 | [README.md](README.md) | English documentation |
 | [README.zh-CN.md](README.zh-CN.md) | Simplified Chinese documentation |
 | [LICENSE.txt](LICENSE.txt) | MIT License |

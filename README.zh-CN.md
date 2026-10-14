@@ -63,7 +63,7 @@ Cooldown 结束后，圆环会完全消失。
 1. 安装 Tampermonkey。
 2. 新建一个 userscript。
 3. 删除默认模板。
-4. 将 [GPTusage.js](GPTusage.js) 的完整内容粘贴进去。
+4. 将 [chatgpt-usage-bar.user.js](chatgpt-usage-bar.user.js) 的完整内容粘贴进去。
 5. 保存脚本。
 6. 刷新 `https://chatgpt.com/`。
 
@@ -165,7 +165,7 @@ resumeThresholdMs: 10 * 60_000,
 
 | 文件 | 用途 |
 | --- | --- |
-| [GPTusage.js](GPTusage.js) | 用户脚本源码 |
+| [chatgpt-usage-bar.user.js](chatgpt-usage-bar.user.js) | 用户脚本源码 |
 | [README.md](README.md) | 英文说明 |
 | [README.zh-CN.md](README.zh-CN.md) | 简体中文说明 |
 | [LICENSE.txt](LICENSE.txt) | MIT 许可证 |
